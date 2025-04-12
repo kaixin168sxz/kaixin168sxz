@@ -1,4 +1,4 @@
-## Hi there 👋
+## 嗨，你好 👋
 
 <!--
 **kaixin168sxz/kaixin168sxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
