@@ -1,14 +1,14 @@
 ## Hey, welcome! 👋
 
-**Welcome to my profile, nice to meet you!**
+**Hi!Nice to meet you!**
 
-🔭 Language: python, shell...
+🔭 Language: python, shell, lua, micropython...
 
 🎮 Game: Deltarune, Undertale, Zedla, and so more
 
 📧 Email: `kaixin168kx@163.com`
 
-🌱 Learning: Esp32
+🌱 Learning: Esp32, UiFramework
 
 <!--
 **kaixin168sxz/kaixin168sxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
